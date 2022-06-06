@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "name": "vikas",
+      "email": "jmbliss13@gmail.com",
+      "password": "vk@123",
+      "id": 1
+    },
+    {
+      "email": "dsa@gmail.com",
+      "password": "12345",
+      "name": "aa",
+      "id": 2
+    },
+    {
+      "email": "jmbliss13@gmail.com",
+      "password": "123456",
+      "name": "Vikas Kumar",
+      "id": 3
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 1236547895,
+      "address": "Noida"
+    },
+    {
+      "name": "GK",
+      "contact": 1236540000,
+      "address": "Vijay Nagar Indore",
+      "id": 2
+    },
+    {
+      "name": "sd a",
+      "contact": "2132136",
+      "address": "dsacf",
+      "id": 3
+    },
+    {
+      "name": "Vikas Kumar",
+      "contact": "2132136",
+      "address": "indore",
+      "id": 5
+    },
+    {
+      "name": "KFC",
+      "contact": "0000000002",
+      "address": "Malhar MAll",
+      "id": 6
+    }
+  ]
+}
